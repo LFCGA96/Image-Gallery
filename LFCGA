@@ -75,14 +75,29 @@
   </header>
 
   <section class="gallery">
+  <a href="https://i.postimg.cc/90Lsg7Lq/DSz5.png" target="_blank">
     <img src="https://i.postimg.cc/90Lsg7Lq/DSz5.png" alt="DSz5">
+  </a>
+  <a href="https://i.postimg.cc/MKGCM9G0/DSz7.png" target="_blank">
     <img src="https://i.postimg.cc/MKGCM9G0/DSz7.png" alt="Photo 2">
+  </a>
+  <a href="https://i.postimg.cc/52YDpjL6/DSz8.png" target="_blank">
     <img src="https://i.postimg.cc/52YDpjL6/DSz8.png" alt="Photo 3">
+  </a>
+  <a href="https://i.postimg.cc/dtSz8G7b/DSz6.png" target="_blank">
     <img src="https://i.postimg.cc/dtSz8G7b/DSz6.png" alt="Photo 4">
+  </a>
+  <a href="https://i.postimg.cc/8zxgVLNR/DSz.png" target="_blank">
     <img src="https://i.postimg.cc/8zxgVLNR/DSz.png" alt="Photo 5">
+  </a>
+  <a href="https://i.postimg.cc/bYLXw7qN/DSz4.png" target="_blank">
     <img src="https://i.postimg.cc/bYLXw7qN/DSz4.png" alt="Photo 6">
+  </a>
+  <a href="https://i.postimg.cc/7hHpNVnk/DSz2.png" target="_blank">
     <img src="https://i.postimg.cc/7hHpNVnk/DSz2.png" alt="Photo 7">
-  </section>
+  </a>
+</section>
+
 
   <footer>
     &copy; 2025 LFCGA.
