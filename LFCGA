@@ -39,7 +39,7 @@
 
     .gallery {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 20px;
       padding: 40px 20px;
       max-width: 1200px;
@@ -69,25 +69,19 @@
 <body>
 
   <header>
-    <img src="https://drive.usercontent.google.com/download?id=1jQtrDsk3wSbhCpI77dd8P2iux_EfFpxn&export=view&authuser=0" alt="LFCGA" class="logo">
+    <img src="https://i.postimg.cc/tTpJf5Hj/LFCGA.png" alt="LFCGA" class="logo">
     <h1>LFCGA IMAGE GALLERY</h1>
-    <p>★ ★ ★ ★ ★ For true Reds.</p>
+    <p>For true Reds.</p>
   </header>
 
-  <!-- Google AdSense Code Yahan Lagayein (jab ready ho) -->
-  <!--
-  <script data-ad-client="ca-pub-XXXXXXXXXXXXXX" async
-    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  -->
-
   <section class="gallery">
-    <img src="https://drive.usercontent.google.com/download?id=1yGSnXS0Nk1-xWDW54DvJ8zzRrclpGB4d&export=view&authuser=0" alt="Photo 1">
-    <img src="https://drive.usercontent.google.com/download?id=1C0kQ133_JgVj5nc06wLC49Lc16kl25-6&export=view&authuser=0" alt="Photo 2">
-    <img src="https://drive.usercontent.google.com/download?id=1SVVWcgjb7sOCf61pWgVaPysxHl3AL-Bi&export=view&authuser=0" alt="Photo 3">
-    <img src="https://drive.usercontent.google.com/download?id=15d8HsWSlxvbMQ_9QzXpf-KqG7Q7VoEad&export=view&authuser=0" alt="Photo 4">
-    <img src="https://drive.usercontent.google.com/download?id=1H0v8zI6d25FTWcTcVOnCA-1c5dt1y1Fe&export=view&authuser=0" alt="Photo 5">
-    <img src="https://drive.usercontent.google.com/download?id=1l-8RvpRSQE_oMZ__uOZOcxXXIvP9HZpk&export=view&authuser=0" alt="Photo 6">
-    <img src="https://drive.usercontent.google.com/download?id=1GDvx_ib9IcuoLIsyv0duEvSizNS9icnr&export=view&authuser=0" alt="Photo 7">
+    <img src="https://i.postimg.cc/90Lsg7Lq/DSz5.png" alt="DSz5">
+    <img src="https://i.postimg.cc/MKGCM9G0/DSz7.png" alt="Photo 2">
+    <img src="https://i.postimg.cc/52YDpjL6/DSz8.png" alt="Photo 3">
+    <img src="https://i.postimg.cc/dtSz8G7b/DSz6.png" alt="Photo 4">
+    <img src="https://i.postimg.cc/8zxgVLNR/DSz.png" alt="Photo 5">
+    <img src="https://i.postimg.cc/bYLXw7qN/DSz4.png" alt="Photo 6">
+    <img src="https://i.postimg.cc/7hHpNVnk/DSz2.png" alt="Photo 7">
   </section>
 
   <footer>
