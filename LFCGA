@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <title>LFCGA</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETYCX40HHY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ETYCX40HHY');
+</script>
+
   <style>
     body {
       margin: 0;
@@ -38,9 +49,8 @@
     }
 
     .gallery {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
       gap: 20px;
       padding: 40px 20px;
       max-width: 1200px;
@@ -76,35 +86,34 @@
   </header>
 
   <section class="gallery">
-  <a href="https://postimg.cc/qgnF8jCW" target="_blank">
-    <img src="https://i.postimg.cc/L40MFW44/DSz10.png" alt="Photo 7">
-  </a>
-  <a href="https://postimg.cc/Mfjsvv2W" target="_blank">
-    <img src="https://i.postimg.cc/90Lsg7Lq/DSz5.png" alt="DSz5">
-  </a>
-  <a href="https://postimg.cc/jCGgBQPC" target="_blank">
-    <img src="https://i.postimg.cc/MKGCM9G0/DSz7.png" alt="Photo 2">
-  </a>
-  <a href="https://postimg.cc/qNrmvJmT" target="_blank">
-    <img src="https://i.postimg.cc/52YDpjL6/DSz8.png" alt="Photo 3">
-  </a>
-  <a href="https://postimg.cc/kBK1C6vs" target="_blank">
-    <img src="https://i.postimg.cc/dtSz8G7b/DSz6.png" alt="Photo 4">
-  </a>
-  <a href="https://postimg.cc/FYbBydfz" target="_blank">
-    <img src="https://i.postimg.cc/8zxgVLNR/DSz.png" alt="Photo 5">
-  </a>
-  <a href="https://postimg.cc/14g7WYgL" target="_blank">
-    <img src="https://i.postimg.cc/bYLXw7qN/DSz4.png" alt="Photo 6">
-  </a>
-  <a href="https://postimg.cc/k6H1JWH1" target="_blank">
-    <img src="https://i.postimg.cc/7hHpNVnk/DSz2.png" alt="Photo 7">
-  </a>
-  <a href="https://postimg.cc/hfns7Srk" target="_blank">
-    <img src="https://i.postimg.cc/sDQNqxZg/DSz9.png" alt="Photo 7">
-  </a>
-</section>
-
+    <a href="https://postimg.cc/qgnF8jCW" target="_blank">
+      <img src="https://i.postimg.cc/L40MFW44/DSz10.png" alt="Photo 7">
+    </a>
+    <a href="https://postimg.cc/Mfjsvv2W" target="_blank">
+      <img src="https://i.postimg.cc/90Lsg7Lq/DSz5.png" alt="DSz5">
+    </a>
+    <a href="https://postimg.cc/jCGgBQPC" target="_blank">
+      <img src="https://i.postimg.cc/MKGCM9G0/DSz7.png" alt="Photo 2">
+    </a>
+    <a href="https://postimg.cc/qNrmvJmT" target="_blank">
+      <img src="https://i.postimg.cc/52YDpjL6/DSz8.png" alt="Photo 3">
+    </a>
+    <a href="https://postimg.cc/kBK1C6vs" target="_blank">
+      <img src="https://i.postimg.cc/dtSz8G7b/DSz6.png" alt="Photo 4">
+    </a>
+    <a href="https://postimg.cc/FYbBydfz" target="_blank">
+      <img src="https://i.postimg.cc/8zxgVLNR/DSz.png" alt="Photo 5">
+    </a>
+    <a href="https://postimg.cc/14g7WYgL" target="_blank">
+      <img src="https://i.postimg.cc/bYLXw7qN/DSz4.png" alt="Photo 6">
+    </a>
+    <a href="https://postimg.cc/k6H1JWH1" target="_blank">
+      <img src="https://i.postimg.cc/7hHpNVnk/DSz2.png" alt="Photo 7">
+    </a>
+    <a href="https://postimg.cc/hfns7Srk" target="_blank">
+      <img src="https://i.postimg.cc/sDQNqxZg/DSz9.png" alt="Photo 7">
+    </a>
+  </section>
 
   <footer>
     &copy; 2025 LFCGA.
